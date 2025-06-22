@@ -1,6 +1,10 @@
 ## **Class resources:**
 
-[**Software_Testing_Lab**](https://github.com/emon-swe-sust/Software_Testing_Lab)
+[**Software_Testing_Lab**](https://github.com/emon-swe-sust/Software_Testing_Lab)  
+[**V&V Lab Exam Final Question 1**](https://docs.google.com/document/d/1oJ9uI1W8ujhsbPqnvYRATR3BcgXp8cxV3iDnMKz_0sQ/edit?usp=sharing)
+
+- Question 1: Selenium Web Automation: [DemoBlaze.java](./src/test/java/DemoBlaze.java)
+- Question 2: JUnit [LibraryTest.java](./src/test/java/LibraryTest.java)
 
 ## **Official Documentation:**
 
